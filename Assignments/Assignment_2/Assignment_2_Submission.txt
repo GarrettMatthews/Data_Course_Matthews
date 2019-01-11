@@ -1,0 +1,20 @@
+1
+cd ../../Data/data-shell/data/pdb 
+wc -1 m*.pdb 
+2
+wc -1 m*.pdb > m_lines.txt
+mv m_lines.txt ../../../../Data_Course_Matthews/Assignments/Assignment_2
+3
+cd ../../Data/data-shell/data 
+sed 's/,/\t/g' animals.txt | cut -f2 | sort | uniq > unique_animals.txt
+mv unique_animals.txt ../../../Data_Course_Matthews/Assignments/Assignment_2
+4
+cd ../../Data
+sed 's/,/\t/g' BioLog_Plate_Data.csv | cut -f5 | (head -n 1 && tail -n +2 | sort) | uniq > unique_C-substrates.txt
+mv unique_C-substrates.txt ../../Data_Course_Matthews/Assignments/Assignment_2
+5
+cd ../../Data/data-shell/data
+wc -l *.txt | sort -g | tail -2 | head -1
+6
+find ../../Data/data-shell/many_files -type f -exec bash ./Data/data-shell/scripts/sum_lines.sh {} \; > file_sums.txt
+mv file_sums.txt ../../../Data_Course_Matthews/Assignments/Assignment_2
