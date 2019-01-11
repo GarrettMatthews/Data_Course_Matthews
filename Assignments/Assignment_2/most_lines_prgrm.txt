@@ -1,0 +1,1 @@
+The code I wrote to find the txt file with the most amount of lines was 'wc -l *.txt | sort -g | tail -2 | head -1'
