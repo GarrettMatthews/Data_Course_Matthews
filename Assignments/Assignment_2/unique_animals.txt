@@ -1,0 +1,6 @@
+bear
+deer
+fox
+rabbit
+raccoon
+The code used to achieve this was ' sed 's/,/\t/g' animals.txt | cut -f2 | sort | uniq > unique_animals.txt'
