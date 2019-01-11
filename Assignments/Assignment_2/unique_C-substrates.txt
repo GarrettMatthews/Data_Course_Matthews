@@ -31,3 +31,4 @@ Water
 α-Ketobutyric Acid
 β-Methyl-D- Glucoside
 γ-Hydroxybutyric Acid
+The code used to accomplish this was sed 's/,/\t/g' BioLog_Plate_Data.csv | cut -f5 | (head -n 1 && tail -n +2 | sort) | uniq > unique_C-substrates.txt
