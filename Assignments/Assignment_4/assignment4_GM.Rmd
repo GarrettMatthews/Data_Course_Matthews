@@ -1,0 +1,42 @@
+---
+title: "Assignment 4"
+author: "Garrett Matthews"
+date: "February 5, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+df = read.csv("landdata-states.csv", colClasses = c("State"="character"))
+
+
+```
+
+## Questions:
+  + 1: **read.csv also automatically assigns the values in the first row as the names for the columns, reads       . as decimal values, and will add rows to make all columns of equal length**
+  + 2: **read.csv2() is deliminated by semicolons**
+  + 3: **Because in Europe commas are used as the decimal marker** 
+  
+  + 4: **You could change the class of state by using the colClasses function: 'colClasses = **
+       ** c("State"="character")'**
+       
+  + 5: ** summary(df$Home.Value) gives the summary for only Home.Value**
+  + 6: ** The name of the fourth column, Home.Value is returned**
+  
+  
+
+```{r, echo=TRUE}
+hist(df$Land.Value) # histogram showing number of times each numeric value was seen in the vector "Land.Value"
+
+# If you want to look at land value by region, you could do this:
+plot(x=df$region,y=df$Land.Value)
+
+# Land value by year
+plot(x=df$Year,y=df$Land.Value,col=df$region)
+```
+
+  + 7: **It colors the points according to their value in the region column**
+
