@@ -43,10 +43,18 @@ df2 = data.frame(Year = levels(df$Year_Collected), Compare = dat)
 # To use the min function, I needed to convert the year column to a interger, however, this changed the
 # years values from being a year, to being 1-12.
 as.integer(df2$Year) -> df2$Year
-min(df2[df2$Compare, "Year"])
+min(df2$Compare) -> min
 # The min function told me what row had the smallest value of the compared means of Ben and Katy
 # I reset the data frame to redisplay the correct years, and then look at which year had the 
 # corresponding smallest value
 df2 = data.frame(Year = levels(df$Year_Collected), Compare = dat)
-df2[2,"Year"]
+df2[df2$Compare == min,"Year"]
 
+
+df3 = data.frame(Year = levels(df$Year_Collected), Ben_Average_Conc = mb)
+as.integer(df3$Year) -> df3$Year
+max(df3$Ben_Average) -> max
+df3 = data.frame(Year = levels(df$Year_Collected), Ben_Average_Conc = mb)
+df3[df3$Ben_Average == max,]
+
+write.csv(df3, "Ben_average_by_year.csv")
