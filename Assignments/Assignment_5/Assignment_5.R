@@ -37,5 +37,5 @@ max_auto = df %>%
 max_disp = df %>%
   filter(hp == max_disp)
 df3 = rbind(max_mtcars,max_auto,max_disp)
-write.table(df3,"./hp_maximums.txt")
+write.table(df3,"./hp_maximums.txt", quote = FALSE, row.names = FALSE)
 
