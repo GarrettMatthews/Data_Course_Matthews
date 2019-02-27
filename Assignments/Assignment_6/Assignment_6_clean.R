@@ -1,0 +1,113 @@
+# Assignment 6 messy code
+# Change this to "tidy" format using dplyr verbs
+
+# There's an intuitive dplyr version for everything you see here.
+
+# Note: Do not erase the original code, just comment it out and put your own equivalent code below each section
+
+
+
+##########################
+#        Part 1          #
+##########################
+
+library(tidyverse)
+
+
+# load data (wide format)
+utah = read.csv("./Utah_Religions_by_County.csv")
+
+# subset to only counties with buddhists observed
+#buddhist = utah[utah$Buddhism.Mahayana > 0,]
+buddhist = utah %>%
+  filter(Buddhism.Mahayana > 0)
+
+
+# order rows by population (descending)
+#buddhist = buddhist[order(buddhist$Pop_2010, decreasing = TRUE),]
+buddhist = buddhist %>%
+  arrange(desc(Buddhism.Mahayana))
+
+# write this new dataframe to a file
+write.csv(buddhist, file = "./buddhist_counties.csv", row.names = FALSE, quote = FALSE)
+
+
+## get group summaries of religiousity based on population ##
+
+# divide each county into one of six groups based on populations
+# note: keep these two lines the same in your updated code!
+groups = kmeans(utah$Pop_2010,6) # clusters data into 6 groups based on proximity to mean of potential groups
+utah$Pop.Group = groups$cluster # assigns a new variable to utah giving group for each county
+
+# subset to each group and find summary stats on Religiosity for each
+#group1 = mean(utah[utah$Pop.Group == 1,]$Religious)
+#group2 = mean(utah[utah$Pop.Group == 2,]$Religious)
+#group3 = mean(utah[utah$Pop.Group == 3,]$Religious)
+#group4 = mean(utah[utah$Pop.Group == 4,]$Religious)
+#group5 = mean(utah[utah$Pop.Group == 5,]$Religious)
+#group6 = mean(utah[utah$Pop.Group == 6,]$Religious)
+
+mean_religious = utah %>%
+  group_by(Pop.Group) %>%
+  summarise(Mean_Religious = mean(Religious))
+
+# same, but mean population
+#group1.pop = mean(utah[utah$Pop.Group == 1,]$Pop_2010)
+#group2.pop = mean(utah[utah$Pop.Group == 2,]$Pop_2010)
+#group3.pop = mean(utah[utah$Pop.Group == 3,]$Pop_2010)
+#group4.pop = mean(utah[utah$Pop.Group == 4,]$Pop_2010)
+#group5.pop = mean(utah[utah$Pop.Group == 5,]$Pop_2010)
+#group6.pop = mean(utah[utah$Pop.Group == 6,]$Pop_2010)
+
+mean_pop = utah %>%
+  group_by(Pop.Group) %>%
+  summarise(Mean_Pop = mean(Pop_2010))
+
+# make data frame of each group and mean religiosity
+#religiosity = data.frame(Pop.Group = c("group1","group2","group3","group4","group5","group6"),
+#           Mean.Religiosity = c(group1,group2,group3,group4,group5,group6),
+#           Mean.Pop = c(group1.pop,group2.pop,group3.pop,group4.pop,group5.pop,group6.pop))
+
+religiosity = full_join(mean_religious,mean_pop, by="Pop.Group")
+
+religiosity # take quick look at resulting table
+
+# order by decreasing population
+#religiosity = religiosity[order(religiosity$Mean.Pop, decreasing = TRUE),]
+
+religiosity = religiosity %>%
+  arrange(desc(Mean_Pop))
+
+religiosity # take quick look at resulting table
+
+
+#####################################
+#              Part 2               #
+# Beginning to look at correlations #
+#####################################
+
+# Look for correlations between certain religious groups and non-religious people
+religions = names(utah)[-c(1:4)]
+
+for(i in religions){
+  rsq = signif(summary(lm(utah[,i] ~ utah$Non.Religious))$r.squared, 4)
+  plot(utah[,i] ~ utah$Non.Religious, main = paste(i,"RSq.Val=",rsq), xlab = "Non_Religious",ylab=i)
+  abline(lm(utah[,i] ~ utah$Non.Religious), col="Red")
+}
+
+# Browse through those plots and answer the following questions:
+# 1.  Which religious group correlates most strongly in a given 
+#     area with the proportion of non-religious people?
+      # LDS
+# 2.  What is the direction of that correlation?
+      # Negative correlation
+# 3.  Which religious group has the second stronglest correlation, as above?
+      # Episcopal
+# 4.  What is the direction of THAT correlation?
+      # Positive
+# 5.  What can you say about these relationships?
+      # As the number of LDS increase the number of Non-Religious decreases; 
+      # As the number of Episcopal increases, the number of Non-Religious increases
+
+# UPLOAD YOUR ANSWERS TO CANVAS
+# DON'T FORGET TO PUSH YOUR TIDY CODE TO GITHUB AS WELL!
