@@ -1,0 +1,8 @@
+# Packages to use *potentially* for final project
+
+* seqinr
+* genoPlotR
+* ape
+* msa
+* biomartr
+* 
