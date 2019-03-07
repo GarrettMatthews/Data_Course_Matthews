@@ -120,3 +120,21 @@ atm$Month = plyr::mapvalues(atm$Month, from = m, to = c(1,2,3,4,5,6,7,8,9,10,11,
 atm$Month = as.integer(atm$Month)
 
 atm1 = full_join(atm,hyp1)
+atm1$Year = factor(atm1$Year)
+# Hypothetical data is 2019, this graph is based off of mod1
+atm1 %>%
+  ggplot(aes(x = Precip, y= Diversity, col = Year)) + geom_point() + facet_wrap(~Year) +
+  geom_smooth(method = 'lm', se = FALSE)
+
+# Making the graph with hypothetical data from 2019 based off of mod2
+
+atm2 = full_join(atm,hyp2)
+atm2$Year = factor(atm2$Year)
+
+atm2 %>%
+  ggplot(aes(x= Precip, y = Diversity, col = Year)) + geom_point() + facet_wrap(~Year) +
+  geom_smooth(method = 'lm', se = FALSE)
+
+
+# Examining the graphs from mod1 and mod2 indicate that mod1 was a better predictor, as
+# discussed earlier, as the values seem to fall along the group values much better
