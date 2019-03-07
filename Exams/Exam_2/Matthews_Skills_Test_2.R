@@ -31,6 +31,8 @@ atm = read.csv("atmosphere.csv")
 glimpse(atm)
 
 #Goal: Create two lm's with Diversity as dependent variable
+# I graphed comparative values to gain an initial idea of what variables might be 
+#worth exploring
 
 #Precipitation seems to be a good indicator
 atm %>%
@@ -51,16 +53,19 @@ atm %>%
 atm %>%
   ggplot(aes(x=Year, y= Diversity)) + geom_point() + geom_smooth(method =  'lm')
 
-#Staring to make the models
+#Making models based off of trends I saw in the graphs above
 mod1 = lm(Diversity ~ Precip * CO2_Concentration, data = atm)
 summary(mod1)
+# I used + Year rather than * Year because I felt like the interaction with year
+# would be less important despite there being a graphical trend of year affecting
+# diversity
 mod2 = lm (Diversity ~ Precip * CO2_Concentration * Aerosol_Density + Year, data = atm)
 summary(mod2)
 
-#Finding residuals
+#Finding residuals for the models
 atm = add_residuals(atm,mod1, var = "Mod1_R")
 atm = add_residuals(atm, mod2, var = "Mod2_R")
-
+#I took the mean to compare the two model's residuals
 mean(atm$Mod1_R)
 mean(atm$Mod2_R)
 # According to the mean of the residuals mod1 has better explanatory power, because the 
@@ -71,7 +76,8 @@ atm = add_predictions(atm, mod1, var = "Mod1")
 atm = add_predictions(atm, mod2, var = "Mod2")
 
 #Making the plot with the models
-
+# Here I only plotted trend lines with the points, which I realized after was less useful
+# and not the goal for this portion of the test
 atm %>%
   ggplot(aes(x= Year)) + geom_point(aes(y=Diversity),size = 2) +
   geom_smooth(aes(y=Mod1), color = "Blue", method =  'lm') +
@@ -82,6 +88,8 @@ atm %>%
 # mod2, because just using row.names() wouldn't generate a trend line, all 3 trend lines
 # are stacked
 
+# Plotting with points is much more useful because I can see how close the predictions
+# where to actual values recorded
 atm %>%
   ggplot(aes(x= Year)) + geom_point(aes(y=Diversity),size = 2) +
   geom_point(aes(y=Mod1), color = "Blue", alpha = .75) +
@@ -111,6 +119,8 @@ hyp2 = hyp
 hyp2$Diversity = m2p
 # I was unable to join the hypothetical data frames with the regular because
 # quarter was a factor in one and an integer in the other, same with month
+# so I used plyr::mapvalues to change the atmospheric data in order to join these
+# data frames
 levels(atm$Quarter)
 m = c("January","February","March","April","May","June","July","August","September",
       "October","November","December")
@@ -138,3 +148,4 @@ atm2 %>%
 
 # Examining the graphs from mod1 and mod2 indicate that mod1 was a better predictor, as
 # discussed earlier, as the values seem to fall along the group values much better
+
