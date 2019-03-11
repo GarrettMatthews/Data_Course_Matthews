@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-while read line; do fastq-dump --outdir fastq --gzip --skip-technical  --readids --read-filter pass --dumpbase --split-3 --clip   SRR_Acc_List_Canis.txt done;
-Last line successfully read: Written 347259 spots for ERR2752992
+Code
+while read line; do fastq-dump --outdir fastq --gzip --skip-technical  --readids --read-filter pass --dumpbase --split-3 --clip $line ; done < SRR_Acc_pt2.txt 
 
-=======
-while read line; do fastq-dump --outdir fastq --gzip --skip-technical  --readids --read-filter pass --dumpbase --split-3 --clip  $line SRR_Acc_List_Canis.txt done;
->>>>>>> a0e22a920719cb078cbfe4143018c6cd133e7843
+Last line successfully read: Written 530035 spots for SRR5118070
+
+
+
