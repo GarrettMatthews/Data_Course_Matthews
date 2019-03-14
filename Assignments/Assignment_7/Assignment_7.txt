@@ -1,0 +1,5 @@
+Assignment_7 Questions
+
+1) mod1 is scientificially meaningless, because the data values for humidity are simply "High" and "Low", and mean nothing scientifically speaking. 
+
+2) Nitrogen had a non-linear relationship with growth rate. http://r-statistics.co/Loess-Regression-With-R.html . Loess models can help deal with these kind of relationships.
