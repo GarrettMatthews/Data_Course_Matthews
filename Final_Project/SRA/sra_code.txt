@@ -1,7 +1,0 @@
-Code
-while read line; do fastq-dump --outdir fastq --gzip --skip-technical  --readids --read-filter pass --dumpbase --split-3 --clip $line ; done < SRR_Acc_pt2.txt 
-
-Last line successfully read: Written 530035 spots for SRR5118070
-
-
-
