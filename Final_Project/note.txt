@@ -1,0 +1,6 @@
+github.com/gzahn/UVU_Oral_Microbiome
+
+save msa output as a file
+
+
+phangorn is good too for phylogeny
