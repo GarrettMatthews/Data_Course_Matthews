@@ -1,0 +1,1006 @@
+>XM-024065952_Quercus suber 18S rRNA (guanine-N(7))-methyltransferase RID2 (LOC112033170), mRNA
+>XM-024034598_Quercus suber 18S rRNA (guanine(1575)-N(7))-methyltransferase-like (LOC112002448), mRNA
+>XM-024019328_Quercus suber 18S rRNA (guanine(1575)-N(7))-methyltransferase-like (LOC111987601), mRNA
+>MF360746_Quercus palustris 18S ribosomal RNA gene, partial sequence
+>AY147108_Quercus multinervis 18S ribosomal RNA gene, partial sequence
+>XR-002883370_Quercus suber 18S ribosomal RNA (LOC112016718), rRNA
+>XR-002883356_Quercus suber 18S ribosomal RNA (LOC112016659), rRNA
+>XR-002880727_Quercus suber 18S ribosomal RNA (LOC111991012), rRNA
+>XR-002880076_Quercus suber 18S ribosomal RNA (LOC111985866), rRNA
+>XR-002879893_Quercus suber 18S ribosomal RNA (LOC111984005), rRNA
+>KX610102_Quercus pagoda voucher Summers 8901 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>KM978077_Quercus sp. KK-2014 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM586072_Quercus castaneifolia var. minuta isolate 1568023-13_3 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+>KM586068_Quercus x komarovii isolate 7 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+>KM586067_Quercus castaneifolia subsp. subrotundata isolate M-5-5 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM586066_Quercus castaneifolia subsp. incurvata isolate M-15-5 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+>KM586065_Quercus castaneifolia var. ellipsoidalis isolate M-14-5 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+>KM586064_Quercus robur subsp. pedunculiflora isolate M-8-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+>KM586062_Quercus castaneifolia subsp. aitchisoniana isolate M-4-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+>KM583451_Quercus castaneifolia subsp. castaneifolia isolate M-3-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+>KM583450_Quercus castaneifolia subsp. castaneifolia isolate M-2-4 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+>KM200976_Quercus vaseyana voucher DAV:A63.0008 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200975_Quercus pungens voucher DAV:A63.0007 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200974_Quercus prinoides voucher DAV:A66.0172 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200973_Quercus oblongifolia voucher DAV:A64.0075 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200972_Quercus muehlenbergii voucher DAV:A63.0009 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200971_Quercus mohriana voucher DAV:A64.0006 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200969_Quercus sp. A96.0684 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200967_Quercus x hispanica voucher DAV:A98.0112 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200966_Quercus grisea voucher DAV:A63.0002 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200965_Quercus gravesii voucher DAV:A86.0445 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200963_Quercus lobata voucher DAV:A33.9041 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200962_Quercus x deamii voucher DAV:A69.0642 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200960_Quercus crassipes voucher DAV:A68.0361 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM200955_Quercus arizonica voucher DAV:A92.0013 18S ribosomal RNA gene, partial sequence; 5.8S ribosomal RNA, and genes, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>KM051445_Quercus dentata isolate TKM201401 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>FM244282_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au0108
+>FM244284_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au0128
+>FM244286_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au01a5
+>FM244287_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au01a10
+>FM244288_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au01a13
+>FM244290_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au02a3
+>FM244291_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au02a5
+>FM244293_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au0309
+>FM244294_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au0327
+>FM244297_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au04a7
+>JF980332_Quercus gilva isolate P631 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>JF980309_Quercus serrata isolate P161 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>FM244465_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix8422
+>FM244464_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix8421
+>FM244463_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix8417
+>FM244462_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix8402
+>FM244461_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix8006
+>FM244460_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix8002
+>FM244459_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7914
+>FM244458_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7909
+>FM244457_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7905
+>FM244456_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7903
+>FM244455_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7816
+>FM244454_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7809
+>FM244453_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7744
+>FM244452_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7732
+>FM244451_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7715
+>FM244450_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7619
+>FM244449_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7617
+>FM244448_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7605
+>FM244447_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7528
+>FM244446_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7511
+>FM244445_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7510
+>FM244443_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7405
+>FM244441_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7401
+>FM244440_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7325
+>FM244439_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7319
+>FM244438_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7316
+>FM244437_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7315
+>FM244436_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6712
+>FM244435_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6711
+>FM244434_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6709
+>FM244433_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6614
+>FM244432_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6613
+>FM244431_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6608
+>FM244430_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6601
+>FM244429_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6519
+>FM244428_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6514
+>FM244427_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6513
+>FM244426_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6512
+>FM244425_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6417
+>FM244424_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6413
+>FM244423_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix6410
+>FM244422_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix5804
+>FM244421_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix5801
+>FM244420_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix5647
+>FM244419_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix5335
+>FM244418_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix5334
+>FM244417_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix5328
+>FM244416_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix5313
+>FM244415_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix5009
+>FM244414_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix4931
+>FM244413_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix4615
+>FM244412_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix4506ii
+>FM244411_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix4506i
+>FM244410_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix4141
+>FM244409_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3731
+>FM244408_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3640
+>FM244407_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3630
+>FM244406_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3621
+>FM244405_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3502
+>FM244404_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3484
+>FM244403_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3355
+>FM244402_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3317
+>FM244401_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3270
+>FM244400_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3268
+>FM244399_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3247
+>FM244398_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix3033
+>FM244397_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2975
+>FM244395_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2734
+>FM244394_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2728
+>FM244393_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2715
+>FM244392_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2709
+>FM244391_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2703
+>FM244390_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2631
+>FM244389_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2625
+>FM244388_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix25a21
+>FM244387_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2531
+>FM244386_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2529
+>FM244385_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2403
+>FM244384_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2402
+>FM244383_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2306
+>FM244382_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2205
+>FM244381_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2202
+>FM244380_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2009
+>FM244379_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2004
+>FM244378_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1980
+>FM244377_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1932
+>FM244376_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1927
+>FM244375_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1821
+>FM244374_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1803
+>FM244373_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1801
+>FM244372_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1718
+>FM244371_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1706
+>FM244369_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix16a27
+>FM244368_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix16a23
+>FM244366_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1610
+>FM244365_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1307
+>FM244364_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1301
+>FM244363_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1104
+>FM244362_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1103
+>FM244361_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1102
+>FM244360_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1101
+>FM244359_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1007
+>FM244358_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1004
+>FM244357_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix1003
+>FM244356_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0904
+>FM244355_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0903
+>FM244354_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0803
+>FM244353_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0704
+>FM244352_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0703
+>FM244351_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0702
+>FM244350_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0610
+>FM244349_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0627
+>FM244348_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0511
+>FM244347_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0508
+>FM244346_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0507
+>FM244345_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0506
+>FM244344_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0248
+>FM244343_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0245
+>FM244342_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0239
+>FM244341_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0207
+>FM244340_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0132
+>FM244339_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0131
+>FM244338_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix0113
+>FM244337_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co3609
+>FM244336_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co3607
+>FM244335_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co3505
+>FM244334_Quercus dilatata 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone di0118
+>FM244333_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co3032
+>FM244332_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co3007
+>FM244331_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2827
+>FM244330_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2825
+>FM244329_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2818
+>FM244328_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2518
+>FM244326_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2512
+>FM244325_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2502
+>FM244324_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2307
+>FM244323_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2304
+>FM244322_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2324
+>FM244321_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2321
+>FM244320_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2035
+>FM244318_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2029
+>FM244317_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2008
+>FM244316_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2007
+>FM244312_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1709
+>FM244310_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1255
+>FM244308_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1230
+>FM244307_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1032
+>FM244274_Quercus alnifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone an0127
+>FM244275_Quercus alnifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone an0129
+>FM244276_Quercus alnifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone an0141
+>FM244277_Quercus alnifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone an0142
+>FM244278_Quercus alnifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone an0224
+>FM244279_Quercus alnifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone an0227
+>FM244280_Quercus alnifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone an0229i
+>FM244281_Quercus alnifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone an0229ii
+>FM244250_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1505
+>FM244251_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0502
+>FM244252_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0515
+>FM244253_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0513
+>FM244254_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0514
+>FM244255_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0602
+>FM244257_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0609ii
+>FM244258_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0615
+>FM244259_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0701
+>FM244262_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0713
+>FM244263_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0201
+>FM244264_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0202
+>FM244265_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0204
+>FM244266_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0205
+>FM244267_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0304
+>FM244268_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0305
+>FM244269_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0306
+>FM244270_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0401
+>FM244271_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0402
+>FM244272_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0404
+>FM244273_Quercus vulcanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vu0405
+>FM244306_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1029
+>FM244305_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1027
+>FM244304_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1026
+>FM244303_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1008
+>FM244302_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co0618
+>FM244301_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co0112
+>FM244300_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co0111
+>FM244299_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co0107
+>FM244298_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co0103
+>FM244249_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1504
+>FM244248_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1503
+>FM244246_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1403
+>FM244245_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1401
+>FM244244_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1226
+>FM244243_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1223
+>FM244242_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1105
+>FM244241_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1101
+>FM244240_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1012
+>FM244239_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1005
+>FM244238_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0905
+>FM244237_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0902
+>FM244236_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0806
+>FM244235_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0804
+>FM244234_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0706
+>FM244233_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0611
+>FM244232_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0609
+>FM244231_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0306
+>FM244230_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0304
+>FM244229_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0209
+>FM244227_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0008
+>FM244224_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py1115
+>FM244223_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py1108
+>FM244222_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py1005
+>FM244221_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py1002
+>FM244220_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0809
+>FM244219_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0808
+>FM244217_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0801
+>FM244216_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0756
+>FM244214_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0740
+>FM244213_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0623
+>FM244212_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0621
+>FM244211_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0618
+>FM244210_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py05b62
+>FM244209_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py05a9
+>FM244204_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py04a5
+>FM244203_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0430
+>FM244202_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0420
+>FM244201_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0324
+>FM244200_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0314
+>FM244199_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0220
+>FM244197_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0209
+>FM244196_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0208
+>FM244195_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0106
+>FM244193_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu3303
+>FM244192_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu3302
+>FM244191_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu3301
+>FM244190_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu3203
+>FM244189_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu3209
+>FM244188_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu3205
+>FM244187_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu1601
+>FM244186_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu1424
+>FM244185_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu1411
+>FM244184_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0905
+>FM244183_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0708
+>FM244182_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0707
+>FM244181_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0704
+>FM244178_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0612
+>FM244176_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0606
+>FM244175_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0605
+>FM244174_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0513
+>FM244173_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0504
+>FM244172_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0442
+>FM244171_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0437
+>FM244170_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0436
+>FM244169_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0344
+>FM244168_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0342
+>FM244167_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0331
+>FM244166_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0330
+>FM244165_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0213
+>FM244164_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0211
+>FM244163_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0209
+>FM244162_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0206
+>FM244161_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0108
+>FM244160_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0329
+>FM244159_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0314
+>FM244158_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0312
+>FM244157_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0311
+>FM244156_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0211
+>FM244155_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0210
+>FM244154_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0207
+>FM244153_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0201
+>FM244152_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0106
+>FM244151_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0102
+>FM244150_Quercus pontica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone po0101
+>FM244149_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe1707
+>FM244148_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe1704
+>FM244147_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe1702
+>FM244146_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe1701
+>FM244145_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe1106
+>FM244144_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe1105
+>FM244143_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe1104
+>FM244142_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe1103
+>FM244141_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0845
+>FM244140_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0802
+>FM244139_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0709
+>FM244138_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0708
+>FM244137_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0702
+>FM244136_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0701
+>FM244134_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0621
+>FM244133_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0612
+>FM244132_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0609
+>FM244131_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0528
+>FM244130_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0504
+>FM244129_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0447
+>FM244127_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0444
+>FM244125_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0341
+>FM244124_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0311
+>FM244123_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0302
+>FM244122_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0233
+>FM244121_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0232
+>FM244120_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0230
+>FM244119_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0229
+>FM244118_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0219
+>FM244117_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0218
+>FM244116_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0215
+>FM244115_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0211
+>FM244114_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0210
+>FM244113_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0204
+>FM244112_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0201
+>FM244111_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0134
+>FM244110_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0122
+>FM244109_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0121
+>FM244108_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0115
+>FM244106_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0104
+>FM244105_Quercus robur subsp. pedunculiflora 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pf0204
+>FM244104_Quercus robur subsp. pedunculiflora 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pf0203
+>FM244103_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma1068
+>FM244102_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma1004
+>FM244101_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma1003
+>FM244100_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0825
+>FM244099_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0819
+>FM244098_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0631
+>FM244097_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0629
+>FM244096_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0628
+>FM244094_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0526
+>FM244093_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0525
+>FM244092_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0522
+>FM244091_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0520
+>FM244090_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0455
+>FM244089_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0449
+>FM244088_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0447
+>FM244087_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0111
+>FM244086_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0106
+>FM244085_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0104
+>FM244084_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0721
+>FM244080_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0615
+>FM244078_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0520
+>FM244077_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0519
+>FM244075_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0509
+>FM244072_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0413
+>FM244071_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0412
+>FM244070_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0411
+>FM244069_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0327
+>FM244068_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0315b
+>FM244066_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0314
+>FM244064_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0121
+>FM244062_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0607
+>FM244061_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0605
+>FM244059_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0519
+>FM244058_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0510
+>FM244057_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0501
+>FM244056_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0423
+>FM244054_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0413
+>FM244053_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0402
+>FM244052_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0332
+>FM244051_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0331
+>FM244050_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0328
+>FM244049_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0212
+>FM244048_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0211
+>FM244047_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0205
+>FM244046_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0204
+>FM244045_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0107
+>FM244044_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0105
+>FM244043_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0104
+>FM244042_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0103
+>FM244041_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0734
+>FM244040_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0727
+>FM244039_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0720
+>FM244038_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0706
+>FM244037_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0605
+>FM244036_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0603
+>FM244035_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0602
+>FM244034_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0601
+>FM244032_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0520
+>FM244029_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0506
+>FM244027_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0503
+>FM244025_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0412
+>FM244024_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0410
+>FM244023_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0408
+>FM244022_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0304
+>FM244021_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0303
+>FM244020_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0302
+>FM244019_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0107
+>FM244018_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0106
+>FM244017_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0726
+>FM244016_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0505
+>FM244015_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0516
+>FM244014_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0512
+>FM244012_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0420
+>FM244011_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0413
+>FM244008_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0316
+>FM244006_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0304
+>FM244005_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0106
+>FM244004_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0105
+>FM244003_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0102
+>FM244002_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0101
+>FM244001_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa1141
+>FM244000_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa1134
+>FM243999_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa1129
+>FM243998_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa1108
+>FM243997_Quercus lusitanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone lu0110
+>FM243994_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0713
+>FM243992_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0610
+>FM243991_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0608
+>FM243990_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0584
+>FM243989_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0432
+>FM243988_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0424
+>FM243987_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0417
+>FM243986_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0324
+>FM243985_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0305
+>FM243984_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0316
+>FM243983_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0104
+>FM243982_Quercus dalechampii 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone dc0104
+>FM243981_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca4647
+>FM243980_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca4619
+>FM243979_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca4613
+>FM243978_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca4435
+>FM243977_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca4404
+>FM243976_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca4035
+>FM243975_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca4034
+>FM243974_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca3433
+>FM243973_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca3430ii
+>FM243972_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca3430i
+>FM243971_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca3428
+>FM243970_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca2809
+>FM243969_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca2808
+>FM243968_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca2803
+>FM243967_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca2801
+>FM243966_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca1814
+>FM243965_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca1812
+>FM243964_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca1809
+>FM243963_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca1808
+>FM243962_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca1801
+>FM243961_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca1370
+>FM243959_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca1148
+>FM243958_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0662
+>FM243957_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0630
+>FM243956_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0529
+>FM243955_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0525
+>FM243954_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0517
+>FM243953_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0425
+>FM243952_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0364
+>FM243951_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0343
+>FM243950_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0338
+>FM243949_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0316
+>FM243948_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0274
+>FM243947_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0260
+>FM243946_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca0250
+>FM243945_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo0412
+>FM243944_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo0407ii
+>FM243942_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo0320
+>FM243941_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo02a17
+>FM243940_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo02a6
+>FM243938_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo02a2
+>FM243936_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo0139
+>FM243935_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo0134
+>FM243934_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo0132
+>FM243933_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo0104
+>FM243932_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj1218
+>FM243931_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj1215
+>FM243930_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj1114
+>FM243929_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj1112
+>FM243928_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj1108
+>FM243927_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj1102
+>FM243926_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj1020
+>FM243925_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj1018
+>FM243923_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj1007
+>FM243922_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj0929
+>FM243921_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj0928
+>FM243920_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj0916
+>FM243919_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj0908
+>FM243918_Quercus suber x Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone sxt109
+>FM243917_Quercus suber x Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone sxt106
+>FM243916_Quercus suber x Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone sxt104
+>FM243915_Quercus suber x Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone sxt102
+>FM243914_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3611
+>FM243913_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3608
+>FM243912_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3449
+>FM243911_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3443
+>FM243910_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3438
+>FM243909_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3122
+>FM243908_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3118
+>FM243907_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3109
+>FM243906_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3108
+>FM243905_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3045
+>FM243904_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3025
+>FM243903_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3023
+>FM243902_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3017
+>FM243901_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su3013
+>FM243900_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su2534
+>FM243899_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su2512
+>FM243898_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su2507
+>FM243897_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su2443
+>FM243896_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su2442
+>FM243895_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su2328
+>FM243894_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su2304
+>FM243893_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1508
+>FM243892_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1504
+>FM243891_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1503
+>FM243890_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1501
+>FM243889_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1465
+>FM243888_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1452
+>FM243887_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1435
+>FM243886_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1403
+>FM243885_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1243
+>FM243884_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1234
+>FM243883_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1221
+>FM243882_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1137
+>FM243881_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su1122
+>FM243880_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su0833
+>FM243879_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su0446
+>FM243878_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su0352
+>FM243877_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su0306
+>FM243876_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su0304
+>FM243875_Quercus suber 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone su0236
+>FM243874_Quercus ithaburensis subsp. macrolepis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ml0907
+>FM243873_Quercus ithaburensis subsp. macrolepis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ml0906
+>FM243872_Quercus ithaburensis subsp. macrolepis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ml0905
+>FM243871_Quercus ithaburensis subsp. macrolepis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ml0709
+>FM243870_Quercus ithaburensis subsp. macrolepis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ml0703
+>FM243869_Quercus ithaburensis subsp. macrolepis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ml0614
+>FM243868_Quercus ithaburensis subsp. macrolepis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ml0613
+>FM243867_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2209
+>FM243866_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2208
+>FM243865_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2202
+>FM243864_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2201
+>FM243863_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2104
+>FM243862_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2103
+>FM243861_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2102
+>FM243860_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2101
+>FM243859_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2013
+>FM243858_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2010
+>FM243857_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce2003
+>FM243856_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce1821
+>FM243855_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce1819
+>FM243854_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce1817
+>FM243853_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce1706
+>FM243852_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce1702
+>FM243851_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce1323
+>FM243850_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce1313
+>FM243849_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce1307
+>FM243848_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce1003
+>FM243847_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0821
+>FM243845_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0724
+>FM243844_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0664
+>FM243843_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0618
+>FM243842_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0514
+>FM243841_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0509
+>FM243840_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0314
+>FM243839_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0305
+>FM243838_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0107
+>FM243837_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0106
+>FM243836_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0103
+>FM243835_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0102
+>FM243834_Quercus cf. castaneifolia Denk 996078 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone cxi108
+>FM243833_Quercus cf. castaneifolia Denk 996078 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone cxi105
+>FM243832_Quercus cf. castaneifolia Denk 996078 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone cxi104
+>FM243831_Quercus cf. castaneifolia Denk 996078 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone cxi101
+>FM243830_Quercus castaneifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone cf0106
+>FM243829_Quercus castaneifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone cf0104
+>FM243828_Quercus castaneifolia 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone cf0103
+>FM243827_Quercus brantii 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone br0314
+>FM243826_Quercus brantii 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone br0313
+>FM243825_Quercus brantii 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone br0126
+>FM243824_Quercus afares 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone af0750
+>FM243823_Quercus afares 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone af0742
+>FM243822_Quercus afares 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone af0731
+>FM243821_Quercus afares 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone af0728
+>FM243820_Quercus afares 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone af0425
+>FM243818_Quercus afares 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone af0415
+>FM243817_Quercus afares 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone af0412
+>FM243816_Quercus afares 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone af0346
+>FM243815_Quercus afares 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone af0321
+>GU476438_Quercus suber isolate EE4-09A_QUESUB 18S ribosomal RNA gene, partial sequence
+>EU646178_Quercus falcata clone RT-S_(F-9PB) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646175_Quercus michauxii clone RT-S_(F-37PB) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+>EU646169_Quercus falcata clone RT-S_(F-25PB) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646168_Quercus falcata clone RT-S_(F-24PB) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646166_Quercus falcata clone RT-S_(F-18PB) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646162_Quercus falcata clone RT-S_(F-13PB) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646161_Quercus falcata clone RT-S_(F-11PB) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646158_Quercus falcata clone RT-D_(S-8.2brP) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646153_Quercus falcata clone RT-D_(S-1.1yP) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646150_Quercus falcata clone RT-D_(F-28P) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646148_Quercus falcata clone RT-D_(F-22P) 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646142_Quercus velutina 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646141_Quercus falcata isolate leafB 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646140_Quercus falcata isolate leafA 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646138_Quercus michauxii isolate 40 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646137_Quercus falcata isolate 40 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>EU646136_Quercus alba isolate 42 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+>AY283026_Quercus suber 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>AF174636_Quercus stellata 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>AF174635_Quercus sinuata 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>AF174634_Quercus fusiformis 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>AF174633_Quercus fusiformis 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>AF174632_Quercus buckleyi 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>AF174631_Quercus buckleyi 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>AF176406_Quercus fusiformis Powell's Cave sample 103 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+>AF176380_Quercus fusiformis 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
+>AF132892_Quercus rubra 18S ribosomal RNA gene, partial sequence
+>FP051730_FP051730 LG0AAD Quercus robur cDNA clone LG0AAD8YM17RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP068139_FP068139 LG0AAD Quercus robur cDNA clone LG0AAD25YH12RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP065187_FP065187 LG0AAD Quercus robur cDNA clone LG0AAD31YJ08RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP065184_FP065184 LG0AAD Quercus robur cDNA clone LG0AAD31YJ11RM1-1X similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP065077_FP065077 LG0AAD Quercus robur cDNA clone LG0AAD31YM07RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP043318_FP043318 LG0AAC Quercus petraea cDNA clone LG0AAC4YB03RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP050025_FP050025 LG0AAC Quercus petraea cDNA clone LG0AAC13YK05RM1 similar to PplGI.3|TC67861 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP047133_FP047133 LG0AAC Quercus petraea cDNA clone LG0AAC21YM15RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP047049_FP047049 LG0AAC Quercus petraea cDNA clone LG0AAC22YA06RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP049821_FP049821 LG0AAC Quercus petraea cDNA clone LG0AAC14YD07RM1 similar to PplGI.3|TC85142 gb|AF206936.1| Idesia polycarpa 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP049739_FP049739 LG0AAC Quercus petraea cDNA clone LG0AAC14YG23RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP049658_FP049658 LG0AAC Quercus petraea cDNA clone LG0AAC14YK15RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP049655_FP049655 LG0AAC Quercus petraea cDNA clone LG0AAC14YK17RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP046293_FP046293 LG0AAC Quercus petraea cDNA clone LG0AAC24YC09RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP046258_FP046258 LG0AAC Quercus petraea cDNA clone LG0AAC24YE01RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP050291_FP050291 LG0AAC Quercus petraea cDNA clone LG0AAC12YO09RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP046721_FP046721 LG0AAC Quercus petraea cDNA clone LG0AAC22YO21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP043011_FP043011 LG0AAC Quercus petraea cDNA clone LG0AAC4YO11RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP046128_FP046128 LG0AAC Quercus petraea cDNA clone LG0AAC24YK06RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP042127_FP042127 LG0AAC Quercus petraea cDNA clone LG0AAC7YH24RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP042702_FP042702 LG0AAC Quercus petraea cDNA clone LG0AAC5YM19RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP041848_FP041848 LG0AAC Quercus petraea cDNA clone LG0AAC8YE21RM1 similar to PplGI.3|TC77357 homologue to emb|X61277.1|OB18S5S O.berteriana mitochondrial 18S rRNA & 5S rRNA genes, mRNA sequence
+>FP058697_FP058697 LG0AAD Quercus robur cDNA clone LG0AAD3YH12RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP047960_FP047960 LG0AAC Quercus petraea cDNA clone LG0AAC19YH12RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP044565_FP044565 LG0AAC Quercus petraea cDNA clone LG0AAC2YD21RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP042410_FP042410 LG0AAC Quercus petraea cDNA clone LG0AAC6YK04RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP042364_FP042364 LG0AAC Quercus petraea cDNA clone LG0AAC6YM09RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP047763_FP047763 LG0AAC Quercus petraea cDNA clone LG0AAC20YA19RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP042276_FP042276 LG0AAC Quercus petraea cDNA clone LG0AAC7YB01RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP050746_FP050746 LG0AAC Quercus petraea cDNA clone LG0AAC11YI16RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP047322_FP047322 LG0AAC Quercus petraea cDNA clone LG0AAC21YE10RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP054025_FP054025 LG0AAD Quercus robur cDNA clone LG0AAD4YM04RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP053968_FP053968 LG0AAD Quercus robur cDNA clone LG0AAD4YO13RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP054094_FP054094 LG0AAD Quercus robur cDNA clone LG0AAD4YJ08RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP054072_FP054072 LG0AAD Quercus robur cDNA clone LG0AAD4YK05RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP054063_FP054063 LG0AAD Quercus robur cDNA clone LG0AAD4YK13RM1 similar to PplGI.3|TC67861 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP053897_FP053897 LG0AAD Quercus robur cDNA clone LG0AAD50YB15RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP053880_FP053880 LG0AAD Quercus robur cDNA clone LG0AAD50YC11RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP073721_FP073721 LG0AAD Quercus robur cDNA clone LG0AAD13YA17RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP073702_FP073702 LG0AAD Quercus robur cDNA clone LG0AAD13YB12RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP071323_FP071323 LG0AAD Quercus robur cDNA clone LG0AAD19YI17RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP073469_FP073469 LG0AAD Quercus robur cDNA clone LG0AAD13YL16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP054784_FP054784 LG0AAD Quercus robur cDNA clone LG0AAD48YL10RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP054731_FP054731 LG0AAD Quercus robur cDNA clone LG0AAD48YN18RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP070414_FP070414 LG0AAD Quercus robur cDNA clone LG0AAD1YM20RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP067480_FP067480 LG0AAD Quercus robur cDNA clone LG0AAD27YD21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP053625_FP053625 LG0AAD Quercus robur cDNA clone LG0AAD50YN08RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP053618_FP053618 LG0AAD Quercus robur cDNA clone LG0AAD50YN16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP053513_FP053513 LG0AAD Quercus robur cDNA clone LG0AAD51YC10RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP053393_FP053393 LG0AAD Quercus robur cDNA clone LG0AAD51YH06RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP053195_FP053195 LG0AAD Quercus robur cDNA clone LG0AAD51YP22RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP053180_FP053180 LG0AAD Quercus robur cDNA clone LG0AAD5YA14RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP053160_FP053160 LG0AAD Quercus robur cDNA clone LG0AAD5YB10RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP073324_FP073324 LG0AAD Quercus robur cDNA clone LG0AAD14YB21RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP073319_FP073319 LG0AAD Quercus robur cDNA clone LG0AAD14YC03RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP073958_FP073958 LG0AAD Quercus robur cDNA clone LG0AAD12YG14RM1-1X similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP073926_FP073926 LG0AAD Quercus robur cDNA clone LG0AAD12YH24RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP073803_FP073803 LG0AAD Quercus robur cDNA clone LG0AAD12YN04RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP073770_FP073770 LG0AAD Quercus robur cDNA clone LG0AAD12YO13RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP071286_FP071286 LG0AAD Quercus robur cDNA clone LG0AAD19YK05RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP071254_FP071254 LG0AAD Quercus robur cDNA clone LG0AAD19YL14RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP070995_FP070995 LG0AAD Quercus robur cDNA clone LG0AAD1YC21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP070965_FP070965 LG0AAD Quercus robur cDNA clone LG0AAD1YD11FM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP070964_FP070964 LG0AAD Quercus robur cDNA clone LG0AAD1YD11FM2 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP070963_FP070963 LG0AAD Quercus robur cDNA clone LG0AAD1YD11RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP070960_FP070960 LG0AAD Quercus robur cDNA clone LG0AAD1YD12RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP070868_FP070868 LG0AAD Quercus robur cDNA clone LG0AAD1YF01RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP070860_FP070860 LG0AAD Quercus robur cDNA clone LG0AAD1YF05RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP073064_FP073064 LG0AAD Quercus robur cDNA clone LG0AAD14YN05RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP073057_FP073057 LG0AAD Quercus robur cDNA clone LG0AAD14YN11RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP073053_FP073053 LG0AAD Quercus robur cDNA clone LG0AAD14YN16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP067834_FP067834 LG0AAD Quercus robur cDNA clone LG0AAD26YE03RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP067700_FP067700 LG0AAD Quercus robur cDNA clone LG0AAD26YK09RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP068073_FP068073 LG0AAD Quercus robur cDNA clone LG0AAD25YK08RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP064911_FP064911 LG0AAD Quercus robur cDNA clone LG0AAD32YA02RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP067188_FP067188 LG0AAD Quercus robur cDNA clone LG0AAD27YL12RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP067128_FP067128 LG0AAD Quercus robur cDNA clone LG0AAD27YN20RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP067063_FP067063 LG0AAD Quercus robur cDNA clone LG0AAD28YA11RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP067041_FP067041 LG0AAD Quercus robur cDNA clone LG0AAD28YB10RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP067020_FP067020 LG0AAD Quercus robur cDNA clone LG0AAD28YC05RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP063120_FP063120 LG0AAD Quercus robur cDNA clone LG0AAD34YG18RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP063113_FP063113 LG0AAD Quercus robur cDNA clone LG0AAD34YG21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP063086_FP063086 LG0AAD Quercus robur cDNA clone LG0AAD34YH11RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP062737_FP062737 LG0AAD Quercus robur cDNA clone LG0AAD34YO06RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP058007_FP058007 LG0AAD Quercus robur cDNA clone LG0AAD40YF09RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP058002_FP058002 LG0AAD Quercus robur cDNA clone LG0AAD40YF12RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP057916_FP057916 LG0AAD Quercus robur cDNA clone LG0AAD40YH13RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP062720_FP062720 LG0AAD Quercus robur cDNA clone LG0AAD34YO14RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP062683_FP062683 LG0AAD Quercus robur cDNA clone LG0AAD34YP11RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP062625_FP062625 LG0AAD Quercus robur cDNA clone LG0AAD35YA19RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP062621_FP062621 LG0AAD Quercus robur cDNA clone LG0AAD35YA21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP064368_FP064368 LG0AAD Quercus robur cDNA clone LG0AAD32YL01RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP064199_FP064199 LG0AAD Quercus robur cDNA clone LG0AAD32YO11RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP062194_FP062194 LG0AAD Quercus robur cDNA clone LG0AAD35YJ19RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP061916_FP061916 LG0AAD Quercus robur cDNA clone LG0AAD35YP17RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP056994_FP056994 LG0AAD Quercus robur cDNA clone LG0AAD42YH09RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP054377_FP054377 LG0AAD Quercus robur cDNA clone LG0AAD49YN06RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP057841_FP057841 LG0AAD Quercus robur cDNA clone LG0AAD40YJ05RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP057704_FP057704 LG0AAD Quercus robur cDNA clone LG0AAD40YM04RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP057697_FP057697 LG0AAD Quercus robur cDNA clone LG0AAD40YM07RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP057641_FP057641 LG0AAD Quercus robur cDNA clone LG0AAD40YN10RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP054592_FP054592 LG0AAD Quercus robur cDNA clone LG0AAD49YD20RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP063706_FP063706 LG0AAD Quercus robur cDNA clone LG0AAD33YJ19RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP063418_FP063418 LG0AAD Quercus robur cDNA clone LG0AAD34YA13RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP056687_FP056687 LG0AAD Quercus robur cDNA clone LG0AAD43YF03RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP056601_FP056601 LG0AAD Quercus robur cDNA clone LG0AAD43YJ02RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP056439_FP056439 LG0AAD Quercus robur cDNA clone LG0AAD44YA07RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP056320_FP056320 LG0AAD Quercus robur cDNA clone LG0AAD44YF06RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP056311_FP056311 LG0AAD Quercus robur cDNA clone LG0AAD44YF15RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP053729_FP053729 LG0AAD Quercus robur cDNA clone LG0AAD50YI18RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP053681_FP053681 LG0AAD Quercus robur cDNA clone LG0AAD50YK21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP039403_FP039403 LG0AAB Quercus robur cDNA clone LG0AAB15YG15RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP036702_FP036702 LG0AAB Quercus robur cDNA clone LG0AAB23YI23RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP032800_FP032800 LG0AAB Quercus robur cDNA clone LG0AAB7YE21RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP032790_FP032790 LG0AAB Quercus robur cDNA clone LG0AAB7YF08RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP067010_FP067010 LG0AAD Quercus robur cDNA clone LG0AAD28YC16RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP067007_FP067007 LG0AAD Quercus robur cDNA clone LG0AAD28YC18RM1 similar to PplGI.3|TC67861 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP056124_FP056124 LG0AAD Quercus robur cDNA clone LG0AAD44YO24RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP056054_FP056054 LG0AAD Quercus robur cDNA clone LG0AAD45YB21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP052958_FP052958 LG0AAD Quercus robur cDNA clone LG0AAD5YJ18RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP052882_FP052882 LG0AAD Quercus robur cDNA clone LG0AAD5YM21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP073720_FP073720 LG0AAD Quercus robur cDNA clone LG0AAD13YA18RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP072820_FP072820 LG0AAD Quercus robur cDNA clone LG0AAD15YH19RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP072717_FP072717 LG0AAD Quercus robur cDNA clone LG0AAD15YL18RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP072679_FP072679 LG0AAD Quercus robur cDNA clone LG0AAD15YN10RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP033078_FP033078 LG0AAB Quercus robur cDNA clone LG0AAB6YH22RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP039154_FP039154 LG0AAB Quercus robur cDNA clone LG0AAB16YB23RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP038961_FP038961 LG0AAB Quercus robur cDNA clone LG0AAB16YK24RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP038500_FP038500 LG0AAB Quercus robur cDNA clone LG0AAB18YB15RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP072565_FP072565 LG0AAD Quercus robur cDNA clone LG0AAD16YC05RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP034144_FP034144 LG0AAB Quercus robur cDNA clone LG0AAB3YF19RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP034096_FP034096 LG0AAB Quercus robur cDNA clone LG0AAB3YI02RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP033805_FP033805 LG0AAB Quercus robur cDNA clone LG0AAB4YG02RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP035916_FP035916 LG0AAB Quercus robur cDNA clone LG0AAB25YN24RM1 similar to PplGI.3|TC85142 gb|AF206936.1| Idesia polycarpa 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP035849_FP035849 LG0AAB Quercus robur cDNA clone LG0AAB26YB04RM1 similar to PplGI.3|TC87889 homologue to gb|AF223066.1|AF223066 Humulus lupulus 26S ribosomal RNA gene, partial sequence; 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal, mRNA sequence
+>FP038271_FP038271 LG0AAB Quercus robur cDNA clone LG0AAB18YM18RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP038270_FP038270 LG0AAB Quercus robur cDNA clone LG0AAB18YM19RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP038215_FP038215 LG0AAB Quercus robur cDNA clone LG0AAB18YP12RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP035796_FP035796 LG0AAB Quercus robur cDNA clone LG0AAB26YD15RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP069952_FP069952 LG0AAD Quercus robur cDNA clone LG0AAD20YL08RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP069885_FP069885 LG0AAD Quercus robur cDNA clone LG0AAD20YO06RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP069849_FP069849 LG0AAD Quercus robur cDNA clone LG0AAD20YP21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP069839_FP069839 LG0AAD Quercus robur cDNA clone LG0AAD21YA11RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP040761_FP040761 LG0AAB Quercus robur cDNA clone LG0AAB11YI11RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP040340_FP040340 LG0AAB Quercus robur cDNA clone LG0AAB12YL17RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP038774_FP038774 LG0AAB Quercus robur cDNA clone LG0AAB17YE01RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP066976_FP066976 LG0AAD Quercus robur cDNA clone LG0AAD28YE03RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP036124_FP036124 LG0AAB Quercus robur cDNA clone LG0AAB25YE10RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP033550_FP033550 LG0AAB Quercus robur cDNA clone LG0AAB5YB22RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP033514_FP033514 LG0AAB Quercus robur cDNA clone LG0AAB5YD12RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP033488_FP033488 LG0AAB Quercus robur cDNA clone LG0AAB5YE16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP032119_FP032119 LG0AAB Quercus robur cDNA clone LG0AAB9YE16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP039415_FP039415 LG0AAB Quercus robur cDNA clone LG0AAB15YG02RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP066577_FP066577 LG0AAD Quercus robur cDNA clone LG0AAD29YE15RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP066533_FP066533 LG0AAD Quercus robur cDNA clone LG0AAD29YG10RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP066426_FP066426 LG0AAD Quercus robur cDNA clone LG0AAD29YK23RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP061396_FP061396 LG0AAD Quercus robur cDNA clone LG0AAD36YK19RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP056200_FP056200 LG0AAD Quercus robur cDNA clone LG0AAD44YK20RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP039829_FP039829 LG0AAB Quercus robur cDNA clone LG0AAB14YD09RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP039741_FP039741 LG0AAB Quercus robur cDNA clone LG0AAB14YH09RM1 similar to PplGI.3|TC50698 gb|AF206912.1| Flacourtia jangomas 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP065446_FP065446 LG0AAD Quercus robur cDNA clone LG0AAD30YO22RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP060083_FP060083 LG0AAD Quercus robur cDNA clone LG0AAD38YI18RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP059932_FP059932 LG0AAD Quercus robur cDNA clone LG0AAD38YM06RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP059877_FP059877 LG0AAD Quercus robur cDNA clone LG0AAD38YN09RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP059700_FP059700 LG0AAD Quercus robur cDNA clone LG0AAD39YC04RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP055587_FP055587 LG0AAD Quercus robur cDNA clone LG0AAD46YG01RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP065708_FP065708 LG0AAD Quercus robur cDNA clone LG0AAD30YE17RM1-1X similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP066080_FP066080 LG0AAD Quercus robur cDNA clone LG0AAD2YH19RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP066039_FP066039 LG0AAD Quercus robur cDNA clone LG0AAD2YJ10FM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP060507_FP060507 LG0AAD Quercus robur cDNA clone LG0AAD37YO01RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP060437_FP060437 LG0AAD Quercus robur cDNA clone LG0AAD37YP24RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP060414_FP060414 LG0AAD Quercus robur cDNA clone LG0AAD38YA16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP055672_FP055672 LG0AAD Quercus robur cDNA clone LG0AAD46YC14RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP055631_FP055631 LG0AAD Quercus robur cDNA clone LG0AAD46YE09RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP055417_FP055417 LG0AAD Quercus robur cDNA clone LG0AAD46YN02RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP055398_FP055398 LG0AAD Quercus robur cDNA clone LG0AAD46YN17RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP055358_FP055358 LG0AAD Quercus robur cDNA clone LG0AAD46YP12RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP055274_FP055274 LG0AAD Quercus robur cDNA clone LG0AAD47YD24RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP072417_FP072417 LG0AAD Quercus robur cDNA clone LG0AAD16YJ10RM1 similar to PplGI.3|TC77357 homologue to emb|X61277.1|OB18S5S O.berteriana mitochondrial 18S rRNA & 5S rRNA genes, mRNA sequence
+>FP052315_FP052315 LG0AAD Quercus robur cDNA clone LG0AAD7YE08RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP074780_FP074780 LG0AAD Quercus robur cDNA clone LG0AAD10YD08RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP072199_FP072199 LG0AAD Quercus robur cDNA clone LG0AAD17YC16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP072163_FP072163 LG0AAD Quercus robur cDNA clone LG0AAD17YE04RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP069443_FP069443 LG0AAD Quercus robur cDNA clone LG0AAD22YB03RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP066400_FP066400 LG0AAD Quercus robur cDNA clone LG0AAD29YL23RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP066343_FP066343 LG0AAD Quercus robur cDNA clone LG0AAD29YO04RM1 similar to PplGI.3|TC67861 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP066310_FP066310 LG0AAD Quercus robur cDNA clone LG0AAD29YP13RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP060728_FP060728 LG0AAD Quercus robur cDNA clone LG0AAD37YJ02RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP059432_FP059432 LG0AAD Quercus robur cDNA clone LG0AAD39YH12RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP055918_FP055918 LG0AAD Quercus robur cDNA clone LG0AAD45YH22RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP071934_FP071934 LG0AAD Quercus robur cDNA clone LG0AAD17YO14RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP071803_FP071803 LG0AAD Quercus robur cDNA clone LG0AAD18YE08RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP068965_FP068965 LG0AAD Quercus robur cDNA clone LG0AAD23YF16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP068941_FP068941 LG0AAD Quercus robur cDNA clone LG0AAD23YG16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP068795_FP068795 LG0AAD Quercus robur cDNA clone LG0AAD23YM19RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP055869_FP055869 LG0AAD Quercus robur cDNA clone LG0AAD45YJ24RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP052824_FP052824 LG0AAD Quercus robur cDNA clone LG0AAD5YP07RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP052796_FP052796 LG0AAD Quercus robur cDNA clone LG0AAD6YA08RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP052736_FP052736 LG0AAD Quercus robur cDNA clone LG0AAD6YC21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP074661_FP074661 LG0AAD Quercus robur cDNA clone LG0AAD10YI02RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP074629_FP074629 LG0AAD Quercus robur cDNA clone LG0AAD10YJ12RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP071569_FP071569 LG0AAD Quercus robur cDNA clone LG0AAD18YN21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP071560_FP071560 LG0AAD Quercus robur cDNA clone LG0AAD18YO07RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP071557_FP071557 LG0AAD Quercus robur cDNA clone LG0AAD18YO10RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP065928_FP065928 LG0AAD Quercus robur cDNA clone LG0AAD2YM19RM1 similar to PplGI.3|TC59296 homologue to gb|AF026631.1|AF026631 Amanita muscaria 18S ribosomal RNA gene, partial sequence, mRNA sequence
+>FP065904_FP065904 LG0AAD Quercus robur cDNA clone LG0AAD2YN10RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP065898_FP065898 LG0AAD Quercus robur cDNA clone LG0AAD2YN15RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP055107_FP055107 LG0AAD Quercus robur cDNA clone LG0AAD47YM10RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP065360_FP065360 LG0AAD Quercus robur cDNA clone LG0AAD31YC13RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP065279_FP065279 LG0AAD Quercus robur cDNA clone LG0AAD31YF17RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP059411_FP059411 LG0AAD Quercus robur cDNA clone LG0AAD39YH21RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP059395_FP059395 LG0AAD Quercus robur cDNA clone LG0AAD39YI07RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP072318_FP072318 LG0AAD Quercus robur cDNA clone LG0AAD16YN18RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP069206_FP069206 LG0AAD Quercus robur cDNA clone LG0AAD22YL09RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP069181_FP069181 LG0AAD Quercus robur cDNA clone LG0AAD22YM13RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP069156_FP069156 LG0AAD Quercus robur cDNA clone LG0AAD22YN14RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP041301_FP041301 LG0AAC Quercus petraea cDNA clone LG0AAC9YO08RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP044960_FP044960 LG0AAC Quercus petraea cDNA clone LG0AAC28YA03RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP041026_FP041026 LG0AAB Quercus robur cDNA clone LG0AAB10YL16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP037141_FP037141 LG0AAB Quercus robur cDNA clone LG0AAB22YC12RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP044780_FP044780 LG0AAC Quercus petraea cDNA clone LG0AAC28YJ04RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP037004_FP037004 LG0AAB Quercus robur cDNA clone LG0AAB22YJ20RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP034370_FP034370 LG0AAB Quercus robur cDNA clone LG0AAB2YK22RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP037771_FP037771 LG0AAB Quercus robur cDNA clone LG0AAB20YE12RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP071456_FP071456 LG0AAD Quercus robur cDNA clone LG0AAD19YC20RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP071352_FP071352 LG0AAD Quercus robur cDNA clone LG0AAD19YH09RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP068513_FP068513 LG0AAD Quercus robur cDNA clone LG0AAD24YI11RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP068431_FP068431 LG0AAD Quercus robur cDNA clone LG0AAD24YL16RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP035321_FP035321 LG0AAB Quercus robur cDNA clone LG0AAB27YI14RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP035311_FP035311 LG0AAB Quercus robur cDNA clone LG0AAB27YJ02RM1 similar to PplGI.3|TC50698 gb|AF206912.1| Flacourtia jangomas 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP045374_FP045374 LG0AAC Quercus petraea cDNA clone LG0AAC26YM20RM1 similar to PplGI.3|TC67861 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP035534_FP035534 LG0AAB Quercus robur cDNA clone LG0AAB26YP02RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP035449_FP035449 LG0AAB Quercus robur cDNA clone LG0AAB27YC24RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP049213_FP049213 LG0AAC Quercus petraea cDNA clone LG0AAC15YO01RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP049131_FP049131 LG0AAC Quercus petraea cDNA clone LG0AAC16YC05RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP034970_FP034970 LG0AAB Quercus robur cDNA clone LG0AAB28YJ06RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP034960_FP034960 LG0AAB Quercus robur cDNA clone LG0AAB28YJ15RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP034870_FP034870 LG0AAB Quercus robur cDNA clone LG0AAB28YN16RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP041266_FP041266 LG0AAB Quercus robur cDNA clone LG0AAB10YA02RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP045579_FP045579 LG0AAC Quercus petraea cDNA clone LG0AAC26YD14RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP037357_FP037357 LG0AAB Quercus robur cDNA clone LG0AAB21YH21RM1 similar to PplGI.3|TC88331 homologue to gb|AF223066.1|AF223066 Humulus lupulus 26S ribosomal RNA gene, partial sequence; 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, mRNA sequence
+>FP037270_FP037270 LG0AAB Quercus robur cDNA clone LG0AAB21YL22RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP048651_FP048651 LG0AAC Quercus petraea cDNA clone LG0AAC17YH17RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP048554_FP048554 LG0AAC Quercus petraea cDNA clone LG0AAC17YL20RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP048525_FP048525 LG0AAC Quercus petraea cDNA clone LG0AAC17YN06RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP034575_FP034575 LG0AAB Quercus robur cDNA clone LG0AAB2YB21RM1 similar to PplGI.3|TC62974 gb|AF206999.1| Populus tremuloides 18S ribosomal RNA gene, complete sequence, mRNA sequence
+>FP059112_FP059112 LG0AAD Quercus robur cDNA clone LG0AAD39YO07RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP055223_FP055223 LG0AAD Quercus robur cDNA clone LG0AAD47YG11RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FP025208_FP025208 LG0AAA Quercus robur cDNA clone LG0AAA8YG03RM1 similar to PplGI.3|TC52667 homologue to emb|X52320.1|AT3RRNA Arabidopsis thaliana genes for 5.8S rRNA and 25S rRNA with 18S rRNA fragment, mRNA sequence
+>FM244283_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au0121
+>FM244285_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au01a4
+>FM244289_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au02a2
+>FM244292_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au0308
+>FM244295_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au0329
+>FM244296_Quercus aucheri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone au0413
+>FM244444_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7408
+>FM244442_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix7404
+>FM244396_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix2803
+>FM244370_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix16a28
+>FM244367_Quercus ilex 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ix16a22
+>FM244327_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2516
+>FM244319_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co2034
+>FM244315_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1919
+>FM244314_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1718
+>FM244313_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1717
+>FM244311_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1528
+>FM244309_Quercus coccifera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone co1237
+>FM244256_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0609i
+>FM244260_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0705
+>FM244261_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone vi0711
+>FM244247_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro1501
+>FM244228_Quercus robur subsp. robur 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ro0207
+>FM244226_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py1217
+>FM244225_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py1206
+>FM244218_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0803
+>FM244215_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0746
+>FM244208_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py05a4
+>FM244207_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py04a20
+>FM244206_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py04a11
+>FM244205_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py04a8
+>FM244198_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0219
+>FM244194_Quercus pyrenaica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone py0101
+>FM244177_Quercus pubescens 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pu0609
+>FM244128_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0446
+>FM244126_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0439
+>FM244107_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone pe0111
+>FM244095_Quercus macranthera 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ma0623
+>FM244083_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0710
+>FM244082_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0709
+>FM244081_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0625
+>FM244079_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0610
+>FM244076_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0517
+>FM244074_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0508
+>FM244073_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0507
+>FM244067_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0315a
+>FM244065_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0125
+>FM244063_Quercus infectoria subsp. infectoria 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone if0117
+>FM244060_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0603
+>FM244055_Quercus petraea subsp. petraea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ib0414
+>FM244033_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0527
+>FM244031_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0517
+>FM244030_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0513
+>FM244028_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0504
+>FM244026_Quercus hartwissiana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone hw0414
+>FM244013_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0422
+>FM244010_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0412
+>FM244009_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0410
+>FM244007_Quercus frainetto 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fr0311
+>FM243996_Quercus lusitanica 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone lu0105
+>FM243995_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0731
+>FM243993_Quercus faginea 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone fa0616
+>FM243960_Quercus canariensis 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ca1331
+>FM243943_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo0401
+>FM243939_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo02a4
+>FM243937_Quercus infectoria subsp. boisseri 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone bo0206
+>FM243924_Quercus trojana 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone tj1017
+>FM243846_Quercus cerris 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone ce0814
+>FM243819_Quercus afares 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2, 25S rRNA gene (partial), clone af0422
+>XM-024049502_Quercus suber probable RNA 3'-terminal phosphate cyclase-like protein (LOC112017033), mRNA
+>XM-024021409_Quercus suber probable RNA 3'-terminal phosphate cyclase-like protein (LOC111989624), mRNA
+>XM-024035824_Quercus suber probable RNA 3'-terminal phosphate cyclase-like protein (LOC112003606), transcript variant X2, mRNA
+>XM-024035819_Quercus suber probable RNA 3'-terminal phosphate cyclase-like protein (LOC112003606), transcript variant X1, mRNA
+>KC700365_Quercus suber clone Qsu2-5_10 25S-18S ribosomal RNA intergenic spacer, partial sequence
+>XM-024069427_Quercus suber probable 37S ribosomal protein S28, mitochondrial (LOC112036586), mRNA
+>XM-024061040_Quercus suber 40S ribosomal protein S23 (LOC112028354), mRNA
+>XM-024042620_Quercus suber probable 37S ribosomal protein S28, mitochondrial (LOC112010279), mRNA
+>XM-024028267_Quercus suber 40S ribosomal protein S23 (LOC111996309), mRNA
+>XM-024074022_Quercus suber 40S ribosomal protein S23 (LOC112041122), mRNA
+>XM-024074021_Quercus suber 40S ribosomal protein S23 (LOC112041121), mRNA
+>XM-024073160_Quercus suber 40S ribosomal protein S23-like (LOC112040268), mRNA
+>FJ495166_Quercus macrocarpa elongation factor 1 alpha mRNA, partial cds
+>JQ421360_Quercus lobata isolate 824 elongation factor 1-alpha gene, partial cds
+>JQ421359_Quercus lobata isolate 820 elongation factor 1-alpha gene, partial cds
+>JQ421358_Quercus lobata isolate 793 elongation factor 1-alpha gene, partial cds
+>JQ421357_Quercus lobata isolate 790 elongation factor 1-alpha gene, partial cds
+>JQ421356_Quercus lobata isolate 620 elongation factor 1-alpha gene, partial cds
+>JQ421355_Quercus lobata isolate 602 elongation factor 1-alpha gene, partial cds
+>JQ421354_Quercus lobata isolate 429 elongation factor 1-alpha gene, partial cds
+>JQ421353_Quercus lobata isolate 388 elongation factor 1-alpha gene, partial cds
+>JQ421352_Quercus lobata isolate 375 elongation factor 1-alpha gene, partial cds
+>JQ421351_Quercus lobata isolate 374 elongation factor 1-alpha gene, partial cds
+>JQ421350_Quercus lobata isolate 370 elongation factor 1-alpha gene, partial cds
+>JQ421349_Quercus lobata isolate 360 elongation factor 1-alpha gene, partial cds
+>JQ421348_Quercus lobata isolate 164 elongation factor 1-alpha gene, partial cds
+>JQ421347_Quercus lobata isolate 157 elongation factor 1-alpha gene, partial cds
+>JQ421346_Quercus lobata isolate 154 elongation factor 1-alpha gene, partial cds
+>JQ421345_Quercus lobata isolate 58 elongation factor 1-alpha gene, partial cds
+>JQ421344_Quercus lobata isolate 56 elongation factor 1-alpha gene, partial cds
+>JQ421343_Quercus lobata isolate 37 elongation factor 1-alpha gene, partial cds
+>JQ421342_Quercus lobata isolate 35 elongation factor 1-alpha gene, partial cds
+>JQ421341_Quercus lobata isolate 18 elongation factor 1-alpha gene, partial cds
+>JQ421340_Quercus lobata isolate 14 elongation factor 1-alpha gene, partial cds
+>EU555532_Quercus petraea isolate QPIGS3cl9 25S-18S ribosomal RNA intergenic spacer, complete sequence
+>EU555528_Quercus petraea isolate QPIGS3cl4 25S-18S ribosomal RNA intergenic spacer, complete sequence
+>EU555527_Quercus petraea isolate QPIGS8 25S-18S ribosomal RNA intergenic spacer, complete sequence
+>EU555526_Quercus petraea isolate QPIGS6 25S-18S ribosomal RNA intergenic spacer, complete sequence
+>EU555525_Quercus petraea isolate QPIGS4 25S-18S ribosomal RNA intergenic spacer, partial sequence
+>EU555524_Quercus petraea isolate QPIGS3cl3 25S-18S ribosomal RNA intergenic spacer, complete sequence
+>EU555523_Quercus petraea isolate QPIGS2 25S-18S ribosomal RNA intergenic spacer, complete sequence
+>EU555522_Quercus petraea isolate QPIGS1 25S-18S ribosomal RNA intergenic spacer, partial sequence
+>EU555521_Quercus robur isolate QRIGS1 25S-18S ribosomal RNA intergenic spacer, complete sequence
