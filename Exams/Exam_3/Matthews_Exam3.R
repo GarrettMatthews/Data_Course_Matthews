@@ -42,5 +42,18 @@ c <- data.frame( x=rnorm(20000, 9.5, 1.9), y=rnorm(20000, 15.5, 1.9) )
 plot2.data <- rbind(a,b,c)
 
 # make and export plot2
-                                # your code for plot2 goes here #
+p3 = plot2.data %>%
+  ggplot(aes(x = x, y = y)) + geom_bin2d()
+
+p4 = p3 + theme(panel.background = element_rect(fill = "White"),
+                axis.title = element_blank(),
+                axis.line = element_blank(),
+                axis.ticks = element_blank(),
+                axis.text = element_blank(),
+                plot.margin = unit(c(0,0,0,0), "in"), 
+                legend.box.margin = unit(c(0,-.07,0,-.15), "in"))
+p4
+ggsave("./Matthews_plot2.png", plot = p4, width = 5, height = 5, units = "in", dpi = 300)
+
+
 
