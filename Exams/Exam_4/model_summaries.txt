@@ -1,0 +1,54 @@
+
+> print(sum)
+
+Call:
+lm(formula = Diversity ~ Precip * CO2_Concentration, data = atm)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-556.58 -112.01  -12.53   78.48  986.08 
+
+Coefficients:
+                           Estimate Std. Error t value Pr(>|t|)    
+(Intercept)              -3938.8949   733.1392  -5.373 1.58e-07 ***
+Precip                     963.9684   209.7199   4.596 6.39e-06 ***
+CO2_Concentration           10.6100     1.9240   5.514 7.67e-08 ***
+Precip:CO2_Concentration    -1.9491     0.5405  -3.606 0.000365 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 201.1 on 294 degrees of freedom
+Multiple R-squared:  0.9159,	Adjusted R-squared:  0.915 
+F-statistic:  1067 on 3 and 294 DF,  p-value: < 2.2e-16
+
+
+> print(sum2)
+
+Call:
+lm(formula = Diversity ~ Precip * CO2_Concentration * Aerosol_Density + 
+    Year, data = atm)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-426.26  -53.08   -8.91   55.70  408.21 
+
+Coefficients:
+                                           Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                              -1.703e+05  1.349e+04 -12.621  < 2e-16 ***
+Precip                                    1.111e+03  2.313e+02   4.801 2.54e-06 ***
+CO2_Concentration                        -4.472e+01  4.152e+00 -10.772  < 2e-16 ***
+Aerosol_Density                          -6.596e+01  3.341e+00 -19.740  < 2e-16 ***
+Year                                      9.340e+01  7.399e+00  12.623  < 2e-16 ***
+Precip:CO2_Concentration                 -2.740e+00  5.996e-01  -4.570 7.25e-06 ***
+Precip:Aerosol_Density                    9.584e-01  3.855e-01   2.486   0.0135 *  
+CO2_Concentration:Aerosol_Density         1.792e-01  8.863e-03  20.220  < 2e-16 ***
+Precip:CO2_Concentration:Aerosol_Density -2.444e-03  9.872e-04  -2.475   0.0139 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 104.2 on 289 degrees of freedom
+Multiple R-squared:  0.9778,	Adjusted R-squared:  0.9772 
+F-statistic:  1590 on 8 and 289 DF,  p-value: < 2.2e-16
+
+
+> sink()
