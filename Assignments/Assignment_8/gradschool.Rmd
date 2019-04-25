@@ -1,0 +1,109 @@
+---
+title: "Grad School Acceptance"
+author: "Garrett Matthews"
+date: "4/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=TRUE, warning=TRUE, include=FALSE, paged.print=TRUE}
+# Importing libraries
+
+library(tidyverse)
+library(modelr)
+library(GGally)
+library(MASS)
+library(truncnorm)
+library(gridExtra)
+library(grid)
+#Reading the Data
+df = read.csv("GradSchool_Admissions.csv")
+```
+
+
+## Introduction
+The purpose of this assignment is to explore a data set of graduate school admissions, to try and predict what indicators, if any, can be used to best predict whether or not a student will be accepted into a graduate program. Schools are ranked 1-4, with 1 being a 'top tier' school. 
+
+
+```{r echo=FALSE}
+mod_rank = glm(admit ~ rank, data = df)
+mod_gpa = glm(admit ~ gpa, data = df)
+mod_gre = glm(admit ~ gre, data =df)
+mod1 = glm(admit ~ gre * gpa * rank, data = df)
+mod2 = glm(admit ~ gre + gpa + rank, data =df)
+```
+
+*Model of admittance with rank of school*
+```{r, echo = FALSE}
+summary(mod_rank)
+```
+*Model of admittance with gpa score*
+```{r, echo = FALSE}
+summary(mod_gpa)
+```
+*Model of admittance with gre score*
+```{r, echo = FALSE}
+summary(mod_gre)
+```
+
+All three models have a fairly low p-value, indicating that each has some affect on admission into graduate school. The function stepAIC (in the MASS package) can take a model of multiple variables, and breaks it down into the best model. The model (admit ~ gre * gpa * rank) uses all the interactions between those three variables and how they tie in to admittance. 
+```{r, echo = FALSE}
+stepAIC(mod1)
+```
+
+As can be seen in the results of of running the function above, the best model is (admit ~ gre + gpa + rank), whose summary can be seen below. 
+```{r, echo=FALSE}
+summary(mod1)
+```
+
+Because all three variables are used in this model, if we were to make predictions from the data set used, we would see almost a perfect fit, but this would be a false positive because the model was built from that data. So we could do a cross validation, or we could make a random table to test the likelyhood of these random students being accepted.
+
+```{r, echo = FALSE}
+gre_n = rtruncnorm(500, a=0, b= 800, mean = 587.7, sd = 115.5165)
+gpa_n = rtruncnorm(500, a = 0, b=4.0, mean = 3.3899, sd = 0.3805668)
+rank_n = sample(rep(c(1,2,3,4),130),500)
+test = data.frame(gre = gre_n, gpa = gpa_n, rank = rank_n)
+test = add_predictions(test,mod2, var = "admit_odds")
+```
+The model in this case gives a logarithmic odds, which a little hard to wrap our human minds around. 
+```{r, echo= FALSE}
+exp(coefficients(mod2))
+```
+For each change in GRE, GPA, or School Rank indicated, your odds of addmitance into grad school increase by 1. 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+p1 = test %>%
+  ggplot(aes(x = admit_odds, y= gre)) + geom_point(aes(color = factor(rank))) + geom_smooth(se=FALSE) +
+  labs(title = "GRE Score and Odds of Acceptance", x = "Acceptance Odds", y = "GRE Score", color = "School Rank")
+p2 = test %>%
+  ggplot(aes(x = admit_odds, y= gpa)) + geom_point(aes(color = factor(rank))) + geom_smooth(se=FALSE) +
+  labs(title = "GPA and Odds of Acceptance", x = "Acceptance Odds", y = "GPA", color = "School Rank")
+p3 = test %>%
+  ggplot(aes(x = admit_odds, y= rank)) + geom_point(aes(color = factor(rank))) + geom_smooth(se=FALSE) +
+  labs(title = "School Rank and Odds of Acceptance", x = "Acceptance Odds", y = "School Rank", color = "School Rank")
+text = textGrob("Comparing the odds of a students 
+                acceptance based off of their GPA,
+                their GRE Score, and their Schools
+                Rank, colored by School Rank")
+grid.arrange(p1,p2,p3,text, ncol = 2)
+```
+
+
+These graphs are made off of a random data set that had similar mean and standard deviation as the original data set. I find it incredibly interesting that out of the three influencing variables, the one that has the most influence is school rank. There are clear colored devisions, that despite similar scores, they have vastly differently likelyhoods of acceptance based on school rank. Which means there are vastly different likelyhoods based on a students, and more especially their parents, wealth. 
+
+```{r, echo = FALSE, message= FALSE, warning=FALSE}
+df %>%
+  ggplot(aes(x=gre, y= gpa, color = factor(admit))) + geom_point() +
+  geom_smooth(se = FALSE, method = "lm") +
+  facet_wrap(~rank) + labs(title="Admitance as affected by GPA, GRE, and School Rank", x = "GRE", y = "GPA", color = "Admittance")
+```
+
+
+This is the most interesting graph I found while looking at the original data set. The thing I find more interesting is that in a tier 4 school, there was a student with a 4.0 and a 800 gre that was not accepted into grad school, while in the other 3 tiers there was a student with similar scores that was accepted.
+
+
+
+
