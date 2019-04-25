@@ -114,8 +114,8 @@ tr = tr + labs(title = expression(paste(italic("Quercus")) ~ "Species 18s Sequen
 
 ## The Tree
 ```{r echo=FALSE, fig.height=10,fig.width=15, out.extra='style="float:right; padding:10px"'}
-tree = read.tree("../Tree_Complete/tree.nwk")
-labels= read.csv("../edge_label.csv", sep = " ")
+tree = read.tree("tree.nwk")
+labels= read.csv("edge_label.csv", sep = " ")
 clr = c("#ff6a00","#015600","#ff0000","#635c2b","#7a1c00","#7c0947","#a3007f","#ff4c7f",
         "#0ab5b5","#08166d","#000000","#b24f03","#00a055")
 tr = ggtree(tree, layout = "circular", branch.length = 'none') + geom_tiplab2(aes(color = labels$Genus), size = 2.75) + theme(legend.position = "right") + scale_color_manual(labels= c("Maple", "Maidenhair Fern", "Dingo", "Cat", "Apple", "Trout","Slime Mold", "Pine", "Gilled Mushrooms", "Oak", "Yeast", "Tulip", "Moss") , values = clr) + labs(title = expression(paste(italic("Quercus")) ~ "Species 18s Sequences Compared with other Eukaryotes"), color = "Group") + theme(title = element_text(size = 20), legend.text = element_text(size = 20)) + guides(color = guide_legend(override.aes = list(size = 10)))
