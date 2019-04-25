@@ -1,0 +1,152 @@
+---
+title: "Oak Phylogenetic Tree"
+author: "Garrett Matthews"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(treeio)
+library(ggtree)
+library(tidyverse)
+library(png)
+```
+
+## Introduction
+
+  To provide some context as to why I chose this as my project, I feel I should explain a little about myself. I have always found genetics to be a fascinating topic, and as I continue throughout my education I find myself being drawn more and more to evolutionary biology. As of the writing of this document, I am planning on applying to grad school programs this fall (2019), looking for programs dealing with population genetics and evolution. Because my interest in these areas I began trying to brainstorm topics that would fall in line with this, both to give me experiance with these tools and to make this project easier on myself. 
+  
+  My first idea was to compare genes of the common starling, a bird that has been introduced to nearly every continent by Europeans who thought it would be smart to spread the birds Shakespeare mentioned world wide. Starlings have since become quite prolific, and have had a little more than 100 years to experiance different evolutionary pressures than their European counterparts. I was curious to see if there was any significant difference forming yet, and if perhaps speciation could be observed, or if there might be a need to label different localities as subspecies. Unfortunately, there is not data that is publically available yet to accomplish such a feat.
+  
+  My next thought was to compare dog breeds and other subspecies of *Canis lupus* so I could build a phylogeny of dog breeds, and maybe see how different *Canis* species were related. Unfortunately the data I was getting from NCBI was much to big for me to feasibly work with (somewhere along the lines of 25 gb), and my computer was unable to process it. I then turned to look for 18s sequences and there were only a handful, that weren't full genomes, available on NCBI and they happened to all be Dingos. 
+  
+  So I turned to plants. I was curious as to the taxonomic relationships of genera that can be found around the world. I initially started looking at multiple genera, with the thought of building a very large tree.  I quickly realised however, that trying to pursue something like that would also be much too complicated for the tools I had at my disposal. But I had found that there were plenty of oak samples available on NCBI, so oak seemed like a good choice to pursue.
+
+## Choosing the Data
+  Originally, I downloaded all of the *Quercus* sequences NCBI had that were between 500 and 2000 base pairs in length. This resulted in around 1000 individuals, which unfortunately resulted in a tree that was unreadable. 
+```{r echo=FALSE, out.width= "65%", out.extra='style="float:right; padding:10px"'}
+oak = read.tree("../Practice/oak_phylo.nwk")
+ggtree(oak, layout = "circular", branch.length = "none") + labs(title = "The Unreadable Tree")
+
+```
+  
+
+## Cleaning and Compiling the Data
+  The next thing I needed to do was simplify the amount of individuals I was using, as well as add in some base groups. For these base groups I chose different eukaryotes, choosing several plant species from different phyla, a few animals, some fungi, and some protists. This required me searching the NCBI database by species (52 *Quercus* species), and randomly choose around 5. Those that had fewer than 5 I downloaded all samples, and those that had a significant amount (a good example being *Quercus robur*, which had more than 200 submitted sequences) I downloaded more sequences for. Once this was accomplished I needed to combine all of these FASTSA files into a single file, as well as cleaning up the data to be accessible in R.
+  Using the following code I was able to combine all of my fasta files, remove the empty lines in between each individual, and then using the FASTX toolkit for command line I was able to make each sequence onto a single line, rather than multiple. That step was necessary in order to create a multi-sequence alignment properly. The following code was run in the command line. The cleaned and compiled fasta file can be found [here](https://github.com/GarrettMatthews/Data_Course_Matthews/blob/master/Final_Project/FASTA_Files/fasta_clean.fasta), and all of the individual fasta files that were combined into the single file can be found in [this](https://github.com/GarrettMatthews/Data_Course_Matthews/tree/master/Final_Project/FASTA_Files/Individual_Fasta) folder.
+```{bash eval=FALSE}
+cat *.fasta > fasta_combine.fasta
+
+sed '/^$/d' fasta_combine.fasta > fasta_oneline.fasta
+
+fasta_formatter -i fasta_oneline.fasta -o fasta_clean.fasta
+
+```
+*Instructions on how to download and install fastx for command line usage can be found here: [Hannon Lab](http://hannonlab.cshl.edu/fastx_toolkit/download.html)*
+
+## Making a Multi-Sequence Alignment
+  The next step was to create a multi-sequence alignment, so that I could use a phylogenetic package to compare the differences in the DNA sequences. This was accomplished using the following script in R. The msa package installation instructions can be found [here](https://bioconductor.org/packages/release/bioc/html/msa.html)
+```{r, eval= FALSE}
+# Importing libraries
+library(msa)
+# Reading the fasta file
+data = msa("./FASTA_Files/fasta_clean.fasta", type = "dna")
+# Saving to a RDS
+saveRDS(data,"./Tree_Complete/data_msa.RDS")
+```
+  The msa output was saved to an RDS file so I would only have to run this code once, as it can be a lengthy process to run an msa. 
+
+## Building the Phylogenetic Data
+  The next step in the process was to use the msa data to create data that could be used to generate a tree. The package used for this was phangorn, which can easily be installed using the r package installer.
+```{r, eval = FALSE}
+# Import libraries
+library(phangorn)
+# Reading the data
+data = readRDS("./Tree_Complete/data_msa.RDS")
+names = read.csv("./FASTA_Files/name_list.csv", sep = " ") # This file allows me to add tip labels
+names = names[,1:4]
+# Building the tree
+
+phang.align = as.phyDat(data, type = "DNA")
+
+dml = dist.ml(phang.align)
+
+treeNJ = NJ(dml)
+
+treeNJ$tip.label <- names$Individual
+names(phang.align) <-names$Individual
+
+fit = pml(treeNJ, data = phang.align)
+
+# This allows me to access the tree built by the previous code using treeio and ggtree
+write.tree(fit$tree, "./Tree_Complete/tree.nwk")
+
+```
+
+## Making the Tree
+  Now that all of the data has been compiled, the tree can finally be made. The packages used for this process were ggtree and treeio. Installation instructions can be found [here](http://bioconductor.org/packages/release/bioc/html/ggtree.html) for ggtree, and [here](https://bioconductor.org/packages/release/bioc/html/treeio.html) for treeio.
+Text sizes were adjusted until there was one that worked well. It doesn't display well in r, so I saved it as a pdf to access the tree as an individual file. This was easily accomplished with ggsave, and playing with the parameters until it was a size that worked well.
+```{r, eval = FALSE}
+# Importing libraries
+library(ggtree)
+library(treeio)
+# Reading the data (Here I am simply reading the newark file back in that we wrote earlier)
+tree = read.tree("./Tree_Complete/tree.nwk")
+# This file allows me to color by genus- the file was taken from the phangorn data, because it was generating 460 edge lengths despite only have 231 indivduals. GGTREE wouldn't let me color anything properly without having a list of the right length, so I managed to find a work around by pulling that list and editing it manually. 
+labels= read.csv("./edge_label.csv", sep = " ")
+# Arbitrarily chosen colors
+clr = c("#ff6a00","#015600","#ff0000","#635c2b","#7a1c00","#7c0947","#a3007f","#ff4c7f",
+        "#0ab5b5","#08166d","#000000","#b24f03","#00a055")
+# The code used to build the tree
+tr = ggtree(tree, layout = "circular", branch.length = 'none')
+tr = tr + geom_tiplab2(aes(color = labels$Genus), size = 4) + theme(legend.position = "right") + 
+  scale_color_manual(labels= c("Maple", "Maidenhair Fern", "Dingo", "Cat", "Apple", "Trout",
+                               "Slime Mold", "Pine", "Gilled Mushrooms", "Oak",
+                               "Yeast", "Tulip", "Moss") , values = clr)
+tr = tr + labs(title = expression(paste(italic("Quercus")) ~ "Species 18s Sequences Compared with other Eukaryotes"),
+          color = "Group") + theme(title = element_text(size = 20), legend.text = element_text(size = 15))
+
+```
+
+## The Tree
+```{r echo=FALSE, fig.height=10,fig.width=15, out.extra='style="float:right; padding:10px"'}
+tree = read.tree("../Tree_Complete/tree.nwk")
+labels= read.csv("../edge_label.csv", sep = " ")
+clr = c("#ff6a00","#015600","#ff0000","#635c2b","#7a1c00","#7c0947","#a3007f","#ff4c7f",
+        "#0ab5b5","#08166d","#000000","#b24f03","#00a055")
+tr = ggtree(tree, layout = "circular", branch.length = 'none') + geom_tiplab2(aes(color = labels$Genus), size = 2.75) + theme(legend.position = "right") + scale_color_manual(labels= c("Maple", "Maidenhair Fern", "Dingo", "Cat", "Apple", "Trout","Slime Mold", "Pine", "Gilled Mushrooms", "Oak", "Yeast", "Tulip", "Moss") , values = clr) + labs(title = expression(paste(italic("Quercus")) ~ "Species 18s Sequences Compared with other Eukaryotes"), color = "Group") + theme(title = element_text(size = 20), legend.text = element_text(size = 20)) + guides(color = guide_legend(override.aes = list(size = 10)))
+
+tr
+
+```
+The pdf of the tree, for easier access and viewing, can be found [here](https://github.com/GarrettMatthews/Data_Course_Matthews/blob/master/Final_Project/Tree_Complete/quercus_tree.pdf)
+
+Here is a list of all the species, because the tree size isn't large enough to be seen clearly past the colors of the genera. 
+```{r echo=FALSE}
+species = read.csv("individual_species_list.csv", sep = " ", header = FALSE)
+knitr::kable(species, caption = "List of species used", col.names = c("Species","Species","Species"))
+```
+
+
+## Discussion
+
+A quick look at the tree that I have made will quickly demonstrate some of the limitations of working with a single location to build a phylogeny. Just taking the tree at face value would make one think that there are some strains of *S. cerevisiae* that are more closely related to oak species than other *S. cerevisiae*, or that a dingo is more closely related to a maidenhair fern than it is to a cat. There are many more examples that could be mentioned, but I feel those two serve well to get the point across. There are limitations in the ability of generating of phylogenetic tree from limited molecular data. While in the case of the tree in this paper it may not be that big of a deal as long as one has a general idea of eukaryotic relationships, with new organisms, or even ones that are within a single kingdom (Fungi are great example of the difficulties with this), misleading and unclear phylogenies could be made. 
+
+But why are phylogenies built are a smaller DNA read limited? In the case of this project, all the strands were between 500 and 2000 base pairs, with most of them falling somewhere in the range of 650-900 base pairs. All of these are made up of four different options: A,T,C, or G. While it is unlikely, it is not impossible for a mutation in a single individual to change the base pair in a location to be more similar to that of a different species than one of the same species. This doesn't mean they're closely related, it is just a demonstration of the affect of random chance on evolution. The larger the read of DNA you use however, the lower the chance that there could be strands that are more similar among interspecies relationships than intraspecies relationships. But, building phylogenies with longer strands requires higher computing power, and depending on how large of sequences you are working with and how many individuals that could quickly become an unmanageable amount of computing power required.
+
+```{r, echo = FALSE, out.width= "45%", out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("ncbi_quercussra.png")
+
+```
+
+
+For example, I just quickly went onto NCBI's [website](https://www.ncbi.nlm.nih.gov/sra), looking at SRAs, I searched for anything they had on *Quercus* species. This gave me 5,882 different sequences of varying lengths that have been submitted. Those sequences take up 3.80 Tb of space, and are 6.41 Terra base pairs long, which for some context on the length is roughly 6,410,000,000,000 or 6.41 trillion base pairs. And thats just one genus, and what has been submitted to NCBI. As you start to scale that up the computational power required grows exponentially also.
+
+Phylogenies built off of physical characteristics can be even more limited in their ability to convey an accurate representation of the evolution of a group of organisms. Molecular data can give a much clearer picture, as well as being able to provide information on how long a distance in evolutionary pathways between two organisms has existed.
+
+Obviously there are going to be drawbacks no matter the method chosen to examine evolutionary relationships. But these drawbacks can be lessened by keeping them in mind while working with data of this sort. 
+
